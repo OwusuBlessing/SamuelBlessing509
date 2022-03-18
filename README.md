@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelBlessing509
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning JavaScript using node for Backend programming
+- 👀 I’m interested in python for Data science.
+- 🌱 I’m currently learning python frameworks for data science(pandas,numpy,matplotlib e.t.c)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 08106214548
 
