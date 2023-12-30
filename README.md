@@ -1,20 +1,20 @@
 [![Masterhead](https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)
 <h1 align="center">Hi 👋, I'm Owusu Samuel</h1>
-<h3 align="center">A passionate Data Scientist from Nigeria</h3>
+<h3 align="center">A passionate AI/ML Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owusublessing&label=Profile%20views&color=0e75b6&style=flat" alt="owusublessing" /> </p>
 
-- 🔭 I’m currently working on **Emotion Detection from face**
+- 🔭 I’m currently working on **Emotion on Large language models**
 
-- 🌱 I’m currently learning **SQL,NLP,Image Segementaion**
+- 🌱 I’m currently learning **NLP for Audio**
 
 - 👯 I’m looking to collaborate on **any open source data science project**
 
-- 🤝 I’m looking for help with **solutions to problems regarding data science**
+- 🤝 I’m looking for help with **solutions to problems regarding data science and machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OwusuBlessing/SamuelBlessing509](https://github.com/OwusuBlessing/SamuelBlessing509)
 
-- 💬 Ask me about **Python & Machine Learning**
+- 💬 Ask me about **AI & Machine Learning**
 
 - 📫 How to reach me **owususammy509@gamil.com**
 
@@ -33,7 +33,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/> </a> 
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tiangolo_fastapi/tiangolo_fastapi-icon.svg" alt="FastAPI" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a> 
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tiangolo_fastapi/tiangolo_fastapi-icon.svg" alt="FastAPI" width="40" height="40"/> </a> 
 
 </p>
 
